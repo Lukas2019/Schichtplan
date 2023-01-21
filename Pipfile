@@ -4,7 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pythonproject = {editable = true, path = "."}
+tabulate = "*"
+prettytable = "*"
+python-dateutil = "*"
 
 [dev-packages]
 
