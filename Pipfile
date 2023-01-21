@@ -7,6 +7,7 @@ name = "pypi"
 tabulate = "*"
 prettytable = "*"
 python-dateutil = "*"
+python-telegram-bot = "*"
 
 [dev-packages]
 
